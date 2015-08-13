@@ -12,7 +12,7 @@
 
 
 @property (weak, nonatomic) IBOutlet UITextField *diceNumberInput;
-
+//Part 2
 
 @property (weak, nonatomic) IBOutlet UILabel *diceResult;
 
